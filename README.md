@@ -104,6 +104,7 @@ The following is the list of our current feature areas:
 Users are encouraged to participate in issue collaboration and voting in the discussion section of each item.
 
 To vote for an issue, use the Thumbs Up / Down Emoji on the issue summary:
+
 ![image](https://github.com/user-attachments/assets/efc8b3d5-5c06-4389-aa2a-443b7510a924)
 
 
