@@ -103,6 +103,10 @@ The following is the list of our current feature areas:
 
 Users are encouraged to participate in issue collaboration and voting in the discussion section of each item.
 
+To vote for an issue, use the Thumbs Up / Down Emoji on the issue summary:
+![image](https://github.com/user-attachments/assets/efc8b3d5-5c06-4389-aa2a-443b7510a924)
+
+
 ## Disclaimer
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to InfuseFlow as of the date they are made, and InfuseFlow assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans. Customers should not rely on this roadmap to make any purchasing decision.
