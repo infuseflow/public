@@ -97,7 +97,11 @@ The following is the list of our current feature areas:
 - **admin**: System configuration, reference data, setup, etc
 - **reporting**: Built-in reports, report access
 - **data**: Data access, publishing, replication services
-- **interfaces**: 3rd party api/data interfaces
+- **interfaces**: 3rd party api/data interfaces 
+
+## Collaboration and Voting
+
+Users are encouraged to participate in issue collaboration and voting in the discussion section of each item.
 
 ## Disclaimer
 
