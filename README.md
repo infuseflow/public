@@ -1,6 +1,6 @@
 # InfuseFlow public roadmap
 
-View the [official InfuseFlow public product roadmap](https://github.com/users/infuseflow/projects/3/views/1).
+View the [official InfuseFlow product roadmap](https://github.com/users/infuseflow/projects/3/views/1).
 
 Our product roadmap is where you can learn about what features we're working on, what stage they are in, and when we expect to make them available.  
 
